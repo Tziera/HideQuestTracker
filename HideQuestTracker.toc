@@ -1,0 +1,5 @@
+## Interface: 90002
+## Title: Hide Quest Tracker
+## Version: (v0.1)
+## Notes: Addon to hide the quest tracker while in combat
+HideQuestTracker.lua
